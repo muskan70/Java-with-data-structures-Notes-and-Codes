@@ -1,0 +1,8 @@
+1. public static int linearSearch(int[] arr, int data)
+2. public static void reverse(int[] arr)
+3. public static int[] inverse(int[] arr)
+4. public static void rotate(int[] arr, int k)
+
+sorts & search
+
+    
